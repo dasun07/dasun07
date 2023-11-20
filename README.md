@@ -2,7 +2,7 @@
 * :star: My passion is to research domains that link concepts of Mathematics, Artificial Intelligence, and Biology.
 * :microscope: My research interests include;  
 
-  * Medical Imaging & Image Processing
+  * Medical Image Processing and Analysis
   * Pattern Recognition
   * Deep Learning & Statistical Machine Learning 
   * Computational Pathology
