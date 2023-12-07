@@ -8,5 +8,5 @@
   * Computational Pathology
   * AI for Biomedical Engineering
   
-* :watch: Recently, I've been focusing more on the concepts of Statistical Learning Theory. Moreover, I am keen on understanding the statistical aspects of pattern recognition and its applications in healthcare.
+* :watch: Recently, I've been intrigued by the concepts of Statistical Learning Theory and its applications in biological and biomedical image analysis.
 * :e-mail: You can reach me via dasunpremethilake@gmail.com or [LinkedIn](https://www.linkedin.com/in/dasun07/) 
