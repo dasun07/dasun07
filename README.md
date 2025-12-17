@@ -2,7 +2,7 @@
 * :star: I am currently working on diffeomorphic frameworks for mapping multimodal data (omics, MRI) onto brain atlases, using image varifold–based representations. It is an extension of the work done by [Dr. Kaitlin Stouffer](https://www.researchgate.net/scientific-contributions/Kaitlin-M-Stouffer-2179747140).
 * :microscope: My recent research interests include;  
 
-  * Image Varifold-based Representations
+  * Image Varifold Representations
   * Diffeomorphic Mappings
   * Computational Anatomy
   * AI for Biomedical Engineering
