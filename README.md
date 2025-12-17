@@ -7,5 +7,4 @@
   * Computational Anatomy
   * AI for Biomedical Engineering
   
-* :watch: Recently, I've been intrigued by the applications of the LDDMM framework and its applications.
 * :e-mail: You can reach me via dasunpremethilake@gmail.com or [LinkedIn](https://www.linkedin.com/in/dasun07/) 
