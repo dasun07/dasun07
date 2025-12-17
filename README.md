@@ -1,12 +1,10 @@
-* 👋 Hi, I’m [Dasun Premathilaka](https://github.com/dasun07), a recent Biomedical Engineering Graduate and a Graduate Research Intern at the [Computer Vision and Pattern Discovery for Bioimages Group](https://www.a-star.edu.sg/bii/research/ciid/cvpd), [Bioinformatics Institute, A*STAR, Singapore](https://www.a-star.edu.sg/bii).
-* :star: My passion is to research domains that link concepts of Mathematics, Artificial Intelligence, and Biology.
-* :microscope: My research interests include;  
+* 👋 Hi, I’m [Dasun Premathilaka](https://github.com/dasun07), a 2nd-year BME PhD student at Johns Hopkins University, supervised by [Prof. Michael I. Miller](https://scholar.google.com/citations?user=Ui8pnoIAAAAJ&hl=en). 
+* :star: I am currently working on cross-modality data mapping using image varifolds, which is an extension of the work done by [Dr. Kaitlin Stouffer](https://www.researchgate.net/scientific-contributions/Kaitlin-M-Stouffer-2179747140).
+* :microscope: My recent research interests include;  
 
-  * Medical Image Processing and Analysis
-  * Pattern Recognition
-  * Deep Learning & Statistical Machine Learning 
-  * Computational Pathology
+  * Image Varifolds (Differential Geometry)
+  * Computational Anatomy
   * AI for Biomedical Engineering
   
-* :watch: Recently, I've been intrigued by the concepts of Statistical Learning Theory and its applications in biological and biomedical image analysis.
+* :watch: Recently, I've been intrigued by the applications of the LDDMM framework and its applications.
 * :e-mail: You can reach me via dasunpremethilake@gmail.com or [LinkedIn](https://www.linkedin.com/in/dasun07/) 
